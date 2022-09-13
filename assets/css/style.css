@@ -109,7 +109,7 @@ body, h1,h2,h3,h4,h5,h6,a,p,span{
 }
 /* banner css */
 .banner_section{
-    background-image: url(/assets/image/banner_image.jpeg);
+    background-image: url(../image/banner_image.jpeg);
     background-size: cover;
     padding: 180px 0px;
     color: white;
